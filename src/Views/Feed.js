@@ -64,7 +64,7 @@ export default  ({navigation}) => {
                     )}
                 />
             ) : (
-                <Text style={{fontSize:80}}>
+                <Text style={{fontSize:20}}>
                     No Post
                 </Text>
             )}
